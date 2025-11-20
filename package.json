@@ -1,0 +1,16 @@
+{
+  "name": "portfolio-viewer",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3001",
+    "build": "next build",
+    "start": "next start -p 3001"
+  },
+  "dependencies": {
+    "next": "latest",
+    "node-appwrite": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}

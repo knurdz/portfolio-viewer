@@ -12,5 +12,10 @@
     "node-appwrite": "latest",
     "react": "latest",
     "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "24.10.1",
+    "@types/react": "19.2.6",
+    "typescript": "5.9.3"
   }
 }

@@ -16,6 +16,7 @@ export default async function PortfolioPage({
 
   return (
     <div
+      suppressHydrationWarning
       dangerouslySetInnerHTML={{ __html: portfolio.htmlContent }}
       style={{ width: "100%", minHeight: "100vh" }}
     />
